@@ -144,3 +144,13 @@ Este proyecto demuestra buenas prácticas de maquetación web, estructura de com
 </div>
 
 ---
+
+## Snake de Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dmonterroso0807/dmonterroso0807/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
