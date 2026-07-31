@@ -154,3 +154,52 @@ Este proyecto demuestra buenas prácticas de maquetación web, estructura de com
 </div>
 
 ---
+
+## Enfoque Actual
+
+*   ** Aprendiendo**
+    *   Arquitectura de Microservicios & Sistemas Distribuidos
+    *   Modelado Avanzado de Bases de Datos (PostgreSQL/ MongoDB / MySQL)
+    *   Optimización & Rendimiento de Software
+
+*   **🔍 Explorando**
+    *   Contenedores & Entornos Aislados con **Docker**
+    *   Gestión de Estado Global Avanzada con **Zustand**
+    *   Integración Continua con **GitHub Actions**
+
+*   **💼 Abierto a**
+    *   Oportunidades como **Desarrollador / Backend**
+    *   Proyectos de Ingeniería & Arquitectura de Software
+    *   Colaboraciones en Equipo & Open Source
+
+---
+
+
+## Contacto
+
+<div align="center">
+
+<a href="mailto:diegomd0303a@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d0000?style=for-the-badge&logo=gmail&logoColor=FBBF24" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/diego-monterroso-1730b3422" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0000?style=for-the-badge&logo=linkedin&logoColor=FBBF24" alt="LinkedIn" />
+</a>
+<a href="https://github.com/dmonterroso0807" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d0000?style=for-the-badge&logo=github&logoColor=FBBF24" alt="GitHub" />
+</a>
+<a href="https://portafoliodesarrollador.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-0d0000?style=for-the-badge&logo=vercel&logoColor=FBBF24" alt="Portafolio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Si piensas en perder, no mereces ganar"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91c1c,50:7f1d1d,100:0d0000&height=120&section=footer"/>
+
+</div>
