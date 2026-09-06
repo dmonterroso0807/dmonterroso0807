@@ -127,19 +127,7 @@ Este proyecto demuestra buenas prácticas de maquetación web, estructura de com
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dmonterroso0807&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dmonterroso0807&theme=tokyonight&hide_border=true" />
-<img height="156" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmonterroso0807&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Actividad de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dmonterroso0807&theme=redical&bg_color=0d0000&color=FBBF24&line=7C3AED&point=FDE68A&area=true&hide_border=true"/>
 
 </div>
 
